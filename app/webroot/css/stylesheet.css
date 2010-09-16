@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+}
+
+.input-text {
+  width: 300px;
+}
+
+.input-long-text {
+  width: 300px;
+}
+
+#header_logo a:visited, #header_logo a:link {
+  color: #FFFFFF;
+}
+
+#wrapper {
+  width: 1024px;
+  margin: 0 auto;
+  text-align: left;
+}
+.left-element {
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+#header_right {
+  width: 820px;
+  height: 71px;
+  background: #6A6500;
+}
+
+#left_content {
+  width: 200px;
+  background: #E8EF77;
+}
+
+#right_content {
+  width: 820px;
+}
+
+#login_page {
+  padding: 50px 0 0 50px;
+}
+
+table.simple-table {
+  background-color: #fafafa;
+  border: 1px #000000 solid;
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+
+table.simple-table  td {
+  border: 1px black solid;
+}
+.simple-table-header {
+  text-align: center;
+  background: #DEDEDE;
+}
+
+.narrow-column {
+  width: 50px;
+}
+
+.medium-column {
+  width: 250px;
+}
+
+.wide-column {
+  width: 300px;
+}
+
+div.form-element {
+  margin: 5px 0;
+}
+
+div.form-element-label {
+  float: left;
+  width: 140px;
+}
+
+div.form-element-control {
+  float: left;
+  width: 330px;
+}
+
+#speed_input, #distance_input, .copy-text {
+  background: #CCCCCC;
+}
+
+div.input-error {
+  color: #FF0000;
+}
+
+.asterisk, .form-warning {
+  color: #FF0000;
+}
+
+/*@media screen
+  {
+*/  * html
+    {
+    overflow-y: hidden;
+    }
+  * html body
+    {
+    height: 100%;
+    overflow: auto;
+    }
+  /*}*/

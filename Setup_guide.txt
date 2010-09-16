@@ -1,0 +1,3 @@
+1. Create scrollcatcher database
+2. Import scrollcatcher.sql
+3. Edit app/config/database.php: Change host, login, password parameters to appropriate value
